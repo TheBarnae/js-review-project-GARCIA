@@ -1,2 +1,2 @@
-# Javascript Review Project by GARCIA_Nichole_Anne_M.
+# Javascript Review Project by Nichole Anne M. Garcia
 This project is a review of JavaScript concepts, from beginners to advanced.
